@@ -1,2 +1,13 @@
-# simple_expression_example
-  Boolean expressions are created with keywords and ,or, not and Is .For Example:
+##  simple expression example
+This will help uh to learn phython from scratch
+
+## Technologies
+python 3
+
+
+ 
+   
+
+   
+   
+ 
